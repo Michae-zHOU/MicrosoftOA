@@ -1,0 +1,29 @@
+[2020-02-02 11:13:57] [INFO] Test Name: getLongestNonRepeatSubString
+[2020-02-02 11:13:57] [INFO] [Debug] ba
+[2020-02-02 11:13:57] [INFO] [Debug] baa
+[2020-02-02 11:13:57] [INFO] [Debug] aa
+[2020-02-02 11:13:57] [INFO] [Debug] aab
+[2020-02-02 11:13:57] [INFO] [Debug] aabb
+[2020-02-02 11:13:57] [INFO] [Debug] aabba
+[2020-02-02 11:13:57] [INFO] [Debug] aabbab
+[2020-02-02 11:13:57] [INFO] [Debug] aabbabb
+[2020-02-02 11:13:57] [INFO] [Debug] bb
+[2020-02-02 11:13:57] [INFO] Test Name: removeSmallestCharacter
+[2020-02-02 11:13:57] [INFO] [Debug] 98
+[2020-02-02 11:13:57] [INFO] [Debug] 97
+[2020-02-02 11:13:57] [INFO] [Debug] 99
+[2020-02-02 11:13:57] [INFO] [Debug] 98
+[2020-02-02 11:13:57] [INFO] Test Name: getLargestAlphabet
+[2020-02-02 11:13:57] [INFO] Test Name: getLargestAlphabet
+[2020-02-02 11:13:57] [INFO] Test Name: getLargestAlphabet
+[2020-02-02 11:13:57] [INFO] Test Name: questionMarkConverter
+[2020-02-02 11:13:57] [INFO] [Debug] r
+[2020-02-02 11:13:57] [INFO] [Debug] l
+[2020-02-02 11:13:57] [INFO] [Debug] t
+[2020-02-02 11:13:57] [INFO] [Debug] n
+[2020-02-02 11:13:57] [INFO] [Debug] q
+[2020-02-02 11:13:57] [INFO] [Debug] i
+[2020-02-02 11:13:57] [INFO] [Debug] s
+[2020-02-02 11:13:57] [INFO] [Debug] q
+[2020-02-02 11:13:57] [INFO] [Debug] v
+[2020-02-02 11:13:57] [INFO] [Debug] s
